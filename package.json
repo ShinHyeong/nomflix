@@ -25,7 +25,7 @@
     "deploy": "gh-pages -d build",
     "predeploy": "yarn run build"
   },
-  "homepage": "https://github.com/ShinHyeong/nomflix",
+  "homepage": "https://elastic-almeida-7d7afe.netlify.app",
   "eslintConfig": {
     "extends": [
       "react-app",
